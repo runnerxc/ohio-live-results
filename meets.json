@@ -10029,8 +10029,8 @@
    ]
   ]
  },
- "generated": "2026-10-17 17:51 EDT",
- "generated_at": "2026-10-17T17:51:42-04:00",
+ "generated": "2026-10-17 18:01 EDT",
+ "generated_at": "2026-10-17T18:01:33-04:00",
  "today": "2026-10-17",
  "window": [
   "2026-10-16",
@@ -12100,7 +12100,7 @@
    ],
    "an_id": "285954",
    "timer": "RunSignup",
-   "status": "live",
+   "status": "listed",
    "note": "",
    "links": [
     {
@@ -12856,7 +12856,7 @@
    "level": "hs",
    "an_id": "286388",
    "timer": "Impeccable Timing",
-   "status": "pending",
+   "status": "final",
    "note": "results posted when available",
    "links": [
     {
@@ -12886,7 +12886,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286388/results/1140752",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       12,
       29,
@@ -12905,7 +12905,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286388/results/1140751",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       12,
       29,
@@ -13764,7 +13764,7 @@
    ],
    "an_id": "",
    "timer": "RunSignup",
-   "status": "live",
+   "status": "listed",
    "note": "",
    "links": [
     {
@@ -14445,7 +14445,7 @@
    "level": "hs",
    "an_id": "285706",
    "timer": "RunSignup",
-   "status": "live",
+   "status": "listed",
    "note": "",
    "links": [
     {
@@ -15283,7 +15283,7 @@
     "ms": "285815"
    },
    "timer": "RunSignup",
-   "status": "live",
+   "status": "listed",
    "note": "",
    "links": [
     {
@@ -15491,7 +15491,7 @@
    "level": "ms",
    "an_id": "278562",
    "timer": "Athletic.net",
-   "status": "partial",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -15511,7 +15511,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/278562/results/1109466",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       95,
       137,
@@ -15554,7 +15554,7 @@
     "ms": "285362"
    },
    "timer": "RunSignup",
-   "status": "live",
+   "status": "listed",
    "note": "",
    "links": [
     {
@@ -16127,7 +16127,7 @@
    ],
    "an_id": "286600",
    "timer": "RunSignup",
-   "status": "live",
+   "status": "listed",
    "note": "",
    "links": [
     {
