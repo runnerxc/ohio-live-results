@@ -1,5 +1,6 @@
 {
- "generated": "2026-10-17 11:46 ",
+ "generated": "2026-10-17 11:49 ",
+ "generated_at": "2026-10-17T11:49:11-04:00",
  "status_asof": "Sat Oct 17 2026 ~10:30 AM ET (timer-sweep)",
  "meets": [
   {
@@ -127,7 +128,7 @@
    "level": "hs",
    "an_id": "281448",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -201,7 +202,7 @@
    "level": "hs",
    "an_id": "280693",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -220,7 +221,7 @@
      "start": "2026-10-17T09:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/280693/results/1117672",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 2,
@@ -228,7 +229,7 @@
      "start": "2026-10-17T09:45",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/280693/results/1117674",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 3,
@@ -332,7 +333,7 @@
    ],
    "an_id": "286770",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -356,7 +357,7 @@
      "start": "2026-10-17T10:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286770/results/1146851",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 3,
@@ -632,7 +633,7 @@
    "level": "hs",
    "an_id": "287824",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -667,7 +668,7 @@
      "start": "2026-10-17T10:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287824/results/1147362",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 4,
@@ -675,7 +676,7 @@
      "start": "2026-10-17T10:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287824/results/1147364",
-     "status": "scheduled"
+     "status": "results"
     }
    ]
   },
@@ -722,7 +723,7 @@
    "level": "hs",
    "an_id": "287029",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -737,7 +738,7 @@
    "races": [
     {
      "n": 1,
-     "name": "Boys Boys HS Lake Division \u00b7 5,000 Meters",
+     "name": "Boys HS Lake Division \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1143667",
@@ -745,15 +746,15 @@
     },
     {
      "n": 2,
-     "name": "Girls Girls HS Lake Division \u00b7 5,000 Meters",
+     "name": "Girls HS Lake Division \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1143669",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 3,
-     "name": "Boys Boys HS Chagrin Division \u00b7 5,000 Meters",
+     "name": "Boys HS Chagrin Division \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1143668",
@@ -761,15 +762,15 @@
     },
     {
      "n": 4,
-     "name": "Girls Girls HS Chagrin Division \u00b7 5,000 Meters",
+     "name": "Girls HS Chagrin Division \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1143670",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 5,
-     "name": "Boys Boys HS Valley Division \u00b7 5,000 Meters",
+     "name": "Boys HS Valley Division \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1143671",
@@ -777,15 +778,15 @@
     },
     {
      "n": 6,
-     "name": "Girls Girls HS Valley Division \u00b7 5,000 Meters",
+     "name": "Girls HS Valley Division \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1143672",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 7,
-     "name": "Boys Boys HS Metro Division \u00b7 5,000 Meters",
+     "name": "Boys HS Metro Division \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1143673",
@@ -793,15 +794,15 @@
     },
     {
      "n": 8,
-     "name": "Girls Girls HS Metro Division \u00b7 5,000 Meters",
+     "name": "Girls HS Metro Division \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1143674",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 9,
-     "name": "Boys Boys HS JV \u00b7 5,000 Meters",
+     "name": "Boys HS JV \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1145626",
@@ -809,7 +810,7 @@
     },
     {
      "n": 10,
-     "name": "Girls Girls HS JV \u00b7 5,000 Meters",
+     "name": "Girls HS JV \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1145627",
@@ -838,7 +839,7 @@
    "races": [
     {
      "n": 1,
-     "name": "Boys Boys MS Lake Division \u00b7 3,200 Meters",
+     "name": "Boys MS Lake Division \u00b7 3,200 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287416/results/1145612",
@@ -846,7 +847,7 @@
     },
     {
      "n": 2,
-     "name": "Girls Girls MS Lake Division \u00b7 3,200 Meters",
+     "name": "Girls MS Lake Division \u00b7 3,200 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287416/results/1145614",
@@ -854,7 +855,7 @@
     },
     {
      "n": 3,
-     "name": "Boys Boys MS Chagrin Division \u00b7 3,200 Meters",
+     "name": "Boys MS Chagrin Division \u00b7 3,200 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287416/results/1145613",
@@ -862,7 +863,7 @@
     },
     {
      "n": 4,
-     "name": "Girls Girls MS Chagrin Division \u00b7 3,200 Meters",
+     "name": "Girls MS Chagrin Division \u00b7 3,200 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287416/results/1145615",
@@ -870,7 +871,7 @@
     },
     {
      "n": 5,
-     "name": "Boys Boys MS Valley Division \u00b7 3,200 Meters",
+     "name": "Boys MS Valley Division \u00b7 3,200 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287416/results/1145616",
@@ -878,7 +879,7 @@
     },
     {
      "n": 6,
-     "name": "Girls Girls MS Valley Division \u00b7 3,200 Meters",
+     "name": "Girls MS Valley Division \u00b7 3,200 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287416/results/1145617",
@@ -886,7 +887,7 @@
     },
     {
      "n": 7,
-     "name": "Boys Boys MS Metro Division \u00b7 3,200 Meters",
+     "name": "Boys MS Metro Division \u00b7 3,200 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287416/results/1145618",
@@ -894,7 +895,7 @@
     },
     {
      "n": 8,
-     "name": "Girls Girls MS Metro Division \u00b7 3,200 Meters",
+     "name": "Girls MS Metro Division \u00b7 3,200 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287416/results/1145619",
@@ -908,7 +909,7 @@
    "level": "hs",
    "an_id": "284474",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -943,7 +944,7 @@
      "start": "2026-10-17T10:50",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/284474/results/1131904",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 4,
@@ -1252,7 +1253,7 @@
    ],
    "an_id": "288532",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -1268,7 +1269,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/288532/results/1150958",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 2,
@@ -1276,7 +1277,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/288532/results/1150959",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 3,
@@ -1306,7 +1307,7 @@
    ],
    "an_id": "288530",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -1318,15 +1319,15 @@
    "races": [
     {
      "n": 1,
-     "name": "Boys Boys Varsity \u00b7 5,000 Meters",
+     "name": "Boys Varsity \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/288530/results/1150607",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 2,
-     "name": "Girls Girls Varsity \u00b7 5,000 Meters",
+     "name": "Girls Varsity \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/288530/results/1150608",
@@ -1334,7 +1335,7 @@
     },
     {
      "n": 3,
-     "name": "Boys Boys JV/Open \u00b7 5,000 Meters",
+     "name": "Boys JV/Open \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/288530/results/1150609",
@@ -1342,7 +1343,7 @@
     },
     {
      "n": 4,
-     "name": "Girls Girls JV/Open \u00b7 5,000 Meters",
+     "name": "Girls JV/Open \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/288530/results/1150610",
@@ -1664,7 +1665,7 @@
      "start": "2026-10-17T11:30",
      "source": "Finish Timing",
      "url": "https://finishtiming.trackscoreboard.com/meets/20275871",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 6,
@@ -1738,7 +1739,7 @@
      "start": "2026-10-17T11:30",
      "source": "Finish Timing",
      "url": "https://finishtiming.trackscoreboard.com/meets/20275871",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 6,
@@ -1777,7 +1778,7 @@
    "races": [
     {
      "n": 1,
-     "name": "Boys Boys HS Varsity \u00b7 5,000 Meters",
+     "name": "Boys HS Varsity \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286817/results/1142616",
@@ -1785,7 +1786,7 @@
     },
     {
      "n": 2,
-     "name": "Girls Girls HS Varsity \u00b7 5,000 Meters",
+     "name": "Girls HS Varsity \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286817/results/1142618",
@@ -1793,27 +1794,27 @@
     },
     {
      "n": 3,
-     "name": "Boys Boys HS Open \u00b7 5,000 Meters",
+     "name": "Boys HS Open \u00b7 5,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286817/results/1142617",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 5,
-     "name": "Boys Boys Middle School \u00b7 3,200 Meters",
+     "name": "Boys Middle School \u00b7 3,200 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286817/results/1142620",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 6,
-     "name": "Girls Girls Middle School \u00b7 3,200 Meters",
+     "name": "Girls Middle School \u00b7 3,200 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286817/results/1142621",
-     "status": "scheduled"
+     "status": "results"
     }
    ]
   },
@@ -2115,7 +2116,7 @@
    ],
    "an_id": "286670",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -2147,7 +2148,7 @@
      "start": "2026-10-17T10:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286670/results/1141909",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 4,
@@ -2356,7 +2357,7 @@
    "level": "hs",
    "an_id": "276546",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -2375,7 +2376,7 @@
      "start": "2026-10-17T11:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/276546/results/1102448",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 2,
@@ -2393,7 +2394,7 @@
    "level": "ms",
    "an_id": "276547",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -2420,7 +2421,7 @@
      "start": "2026-10-17T10:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/276547/results/1102451",
-     "status": "scheduled"
+     "status": "results"
     }
    ]
   },
@@ -2597,7 +2598,7 @@
    "races": [
     {
      "n": 1,
-     "name": "Boys Boys Middle School \u00b7 3,200 Meters",
+     "name": "Boys Middle School \u00b7 3,200 Meters",
      "start": "2026-10-17T10:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/283207/results/1126088",
@@ -2605,7 +2606,7 @@
     },
     {
      "n": 2,
-     "name": "Boys Boys High School \u00b7 5,000 Meters",
+     "name": "Boys High School \u00b7 5,000 Meters",
      "start": "2026-10-17T10:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/283207/results/1126089",
@@ -2613,7 +2614,7 @@
     },
     {
      "n": 3,
-     "name": "Girls Girls Middle School \u00b7 3,200 Meters",
+     "name": "Girls Middle School \u00b7 3,200 Meters",
      "start": "2026-10-17T11:10",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/283207/results/1126090",
@@ -2621,7 +2622,7 @@
     },
     {
      "n": 4,
-     "name": "Girls Girls High School \u00b7 5,000 Meters",
+     "name": "Girls High School \u00b7 5,000 Meters",
      "start": "2026-10-17T11:40",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/283207/results/1126091",
@@ -2899,7 +2900,7 @@
    "level": "hs",
    "an_id": "287023",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -2926,7 +2927,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287023/results/1143626",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 3,
@@ -2942,7 +2943,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287023/results/1148992",
-     "status": "scheduled"
+     "status": "results"
     }
    ]
   },
@@ -2952,7 +2953,7 @@
    "level": "hs",
    "an_id": "277615",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -2971,7 +2972,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/277615/results/1106453",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 2,
@@ -3116,7 +3117,7 @@
    "level": "hs",
    "an_id": "284597",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -3153,7 +3154,7 @@
    "level": "ms",
    "an_id": "284596",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -3180,7 +3181,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/284596/results/1132504",
-     "status": "scheduled"
+     "status": "results"
     }
    ]
   },
@@ -3343,7 +3344,7 @@
    "level": "hs",
    "an_id": "274960",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -3378,7 +3379,7 @@
      "start": "2026-10-17T10:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/274960/results/1095892",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 4,
@@ -3386,7 +3387,7 @@
      "start": "2026-10-17T10:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/274960/results/1095891",
-     "status": "scheduled"
+     "status": "results"
     }
    ]
   },
@@ -3396,7 +3397,7 @@
    "level": "hs",
    "an_id": "274941",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -3431,7 +3432,7 @@
      "start": "2026-10-17T10:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/274941/results/1095834",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 8,
@@ -3439,7 +3440,7 @@
      "start": "2026-10-17T10:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/274941/results/1095833",
-     "status": "scheduled"
+     "status": "results"
     }
    ]
   },
@@ -3449,7 +3450,7 @@
    "level": "hs",
    "an_id": "274943",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -3468,7 +3469,7 @@
      "start": "2026-10-17T11:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/274943/results/1095836",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 6,
@@ -3502,7 +3503,7 @@
    "level": "hs",
    "an_id": "274955",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -3521,7 +3522,7 @@
      "start": "2026-10-17T11:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/274955/results/1095873",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 6,
@@ -4334,7 +4335,7 @@
    "level": "hs",
    "an_id": "278569",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -4361,7 +4362,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/278569/results/1109471",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 5,
@@ -4379,7 +4380,7 @@
    "level": "ms",
    "an_id": "278571",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -4440,7 +4441,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/284108/results/1130054",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 2,
@@ -4494,7 +4495,7 @@
    "races": [
     {
      "n": 1,
-     "name": "Boys Boys Middle School \u00b7 3,000 Meters",
+     "name": "Boys Middle School \u00b7 3,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/284109/results/1130041",
@@ -4502,7 +4503,7 @@
     },
     {
      "n": 2,
-     "name": "Girls Girls Middle School \u00b7 3,000 Meters",
+     "name": "Girls Middle School \u00b7 3,000 Meters",
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/284109/results/1130042",
@@ -4666,7 +4667,7 @@
    "level": "hs",
    "an_id": "278494",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -4701,7 +4702,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/278494/results/1148575",
-     "status": "scheduled"
+     "status": "results"
     },
     {
      "n": 4,
@@ -4709,7 +4710,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/278494/results/1109222",
-     "status": "scheduled"
+     "status": "results"
     }
    ]
   },
