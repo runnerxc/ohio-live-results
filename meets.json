@@ -252,7 +252,7 @@
   "Indian Lake",
   "Ironton",
   "Jackson Center",
-  "James. Greeneview MS",
+  "James. Greenview",
   "Jefferson Area",
   "John Lea MS",
   "John. Northridge",
@@ -9974,8 +9974,8 @@
    ]
   ]
  },
- "generated": "2026-10-17 17:04 ",
- "generated_at": "2026-10-17T17:04:25-04:00",
+ "generated": "2026-10-17 17:10 ",
+ "generated_at": "2026-10-17T17:10:22-04:00",
  "status_asof": "Sat Oct 17 2026 ~10:30 AM ET (timer-sweep)",
  "meets": [
   {
@@ -10799,7 +10799,7 @@
     "ms": "275868"
    },
    "timer": "Finish Timing",
-   "status": "live",
+   "status": "final",
    "note": "boys varsity 107 so far",
    "links": [
     {
@@ -11691,7 +11691,7 @@
     "ms": "278105"
    },
    "timer": "Finish Timing",
-   "status": "live",
+   "status": "final",
    "note": "HS girls 66, boys 45",
    "links": [
     {
@@ -12125,7 +12125,7 @@
    "level": "hs",
    "an_id": "275459",
    "timer": "Finish Timing",
-   "status": "live",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -12332,7 +12332,7 @@
    "level": "hs",
    "an_id": "275875",
    "timer": "Finish Timing",
-   "status": "live",
+   "status": "final",
    "note": "girls 66, boys 64",
    "links": [
     {
@@ -12447,7 +12447,7 @@
     "ms": "275872"
    },
    "timer": "Finish Timing",
-   "status": "live",
+   "status": "final",
    "note": "MS posted; HS pending",
    "links": [
     {
@@ -12600,7 +12600,7 @@
    ],
    "an_id": "286817",
    "timer": "GCXC / ChronoTrack",
-   "status": "live",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -13272,7 +13272,7 @@
     "ms": "275870"
    },
    "timer": "Finish Timing",
-   "status": "live",
+   "status": "final",
    "note": "MS posted; HS pending",
    "links": [
     {
@@ -14638,7 +14638,7 @@
     "ms": "275874"
    },
    "timer": "Finish Timing",
-   "status": "live",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -15335,7 +15335,7 @@
    "level": "hs",
    "an_id": "278495",
    "timer": "Athletic.net",
-   "status": "partial",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -15355,7 +15355,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/278495/results/1109226",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       95,
       137,
@@ -16452,7 +16452,7 @@
     "ms": "284109"
    },
    "timer": "GCXC / ChronoTrack",
-   "status": "live",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -16690,7 +16690,7 @@
    ],
    "an_id": "277508",
    "timer": "RunSignup",
-   "status": "live",
+   "status": "final",
    "note": "",
    "links": [
     {
