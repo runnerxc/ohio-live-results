@@ -11327,8 +11327,8 @@
    ]
   ]
  },
- "generated": "2026-10-17 12:14 ",
- "generated_at": "2026-10-17T12:14:36-04:00",
+ "generated": "2026-10-17 12:28 ",
+ "generated_at": "2026-10-17T12:28:53-04:00",
  "status_asof": "Sat Oct 17 2026 ~10:30 AM ET (timer-sweep)",
  "meets": [
   {
@@ -11621,7 +11621,7 @@
    "level": "hs",
    "an_id": "280693",
    "timer": "Athletic.net",
-   "status": "partial",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -11679,7 +11679,7 @@
      "start": "2026-10-17T10:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/280693/results/1117673",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       22,
       31,
@@ -11698,7 +11698,7 @@
      "start": "2026-10-17T11:15",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/280693/results/1117675",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       22,
       31,
@@ -12494,7 +12494,7 @@
    "level": "ms",
    "an_id": "287827",
    "timer": "Athletic.net",
-   "status": "partial",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -12532,7 +12532,7 @@
      "start": "2026-10-17T11:15",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287827/results/1147370",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       52,
       71,
@@ -12553,7 +12553,7 @@
    "level": "hs",
    "an_id": "287029",
    "timer": "Athletic.net",
-   "status": "partial",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -12716,7 +12716,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1145626",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       18,
       47,
@@ -12740,7 +12740,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/287029/results/1145627",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       47,
       89,
@@ -14099,7 +14099,7 @@
      "start": "2026-10-17T12:15",
      "source": "Finish Timing",
      "url": "https://finishtiming.trackscoreboard.com/meets/20275871",
-     "status": "scheduled"
+     "status": "results"
     }
    ],
    "team_src": "Finish Timing"
@@ -14230,7 +14230,7 @@
      "start": "2026-10-17T12:15",
      "source": "Finish Timing",
      "url": "https://finishtiming.trackscoreboard.com/meets/20275871",
-     "status": "scheduled"
+     "status": "results"
     }
    ],
    "team_src": "Finish Timing"
@@ -15231,7 +15231,7 @@
    "level": "hs",
    "an_id": "276546",
    "timer": "Athletic.net",
-   "status": "partial",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -15269,7 +15269,7 @@
      "start": "2026-10-17T11:45",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/276546/results/1102449",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       6,
       56,
@@ -15811,7 +15811,7 @@
    "level": "hs",
    "an_id": "285317",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -15831,7 +15831,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285317/results/1136026",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       123,
       157,
@@ -15851,7 +15851,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285317/results/1136028",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       123,
       157,
@@ -15872,7 +15872,7 @@
    "level": "ms",
    "an_id": "284122",
    "timer": "Athletic.net",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -15892,7 +15892,7 @@
      "start": "2026-10-17T11:20",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/284122/results/1130133",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       123,
       288,
@@ -15908,7 +15908,7 @@
      "start": "2026-10-17T12:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/284122/results/1130134",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       123,
       157,
@@ -16193,7 +16193,7 @@
    "level": "ms",
    "an_id": "277616",
    "timer": "Athletic.net",
-   "status": "partial",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -16213,7 +16213,7 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/277616/results/1106457",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       202,
       238,
@@ -17126,7 +17126,7 @@
      "start": "2026-10-17T11:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/274955/results/1095874",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       87,
       195,
