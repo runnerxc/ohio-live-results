@@ -10583,8 +10583,8 @@
    ]
   ]
  },
- "generated": "2026-10-17 22:25 EDT",
- "generated_at": "2026-10-17T22:25:51-04:00",
+ "generated": "2026-10-17 22:26 EDT",
+ "generated_at": "2026-10-17T22:26:08-04:00",
  "today": "2026-10-17",
  "window": [
   "2026-10-16",
@@ -16120,7 +16120,7 @@
     "ms": "285362"
    },
    "timer": "RunSignup",
-   "status": "partial",
+   "status": "final",
    "note": "",
    "links": [
     {
