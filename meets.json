@@ -6212,7 +6212,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "63": [
@@ -6230,7 +6230,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "198": [
@@ -6244,7 +6244,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "209": [
@@ -6262,7 +6262,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "253": [
@@ -6276,7 +6276,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "310": [
@@ -6294,7 +6294,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "396": [
@@ -6312,7 +6312,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "441": [
@@ -6330,7 +6330,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "465": [
@@ -6348,7 +6348,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "558": [
@@ -6366,7 +6366,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "559": [
@@ -6384,7 +6384,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "639": [
@@ -6402,7 +6402,7 @@
    ],
    [
     41,
-    3
+    4
    ]
   ],
   "43": [
@@ -7662,11 +7662,11 @@
    ],
    [
     52,
-    2
+    3
    ],
    [
     52,
-    3
+    4
    ]
   ],
   "81": [
@@ -7680,11 +7680,11 @@
    ],
    [
     52,
-    2
+    3
    ],
    [
     52,
-    3
+    4
    ]
   ],
   "93": [
@@ -7698,11 +7698,11 @@
    ],
    [
     52,
-    2
+    3
    ],
    [
     52,
-    3
+    4
    ]
   ],
   "137": [
@@ -7716,11 +7716,11 @@
    ],
    [
     52,
-    2
+    3
    ],
    [
     52,
-    3
+    4
    ]
   ],
   "191": [
@@ -7734,11 +7734,21 @@
    ],
    [
     52,
-    2
+    3
    ],
    [
     52,
-    3
+    4
+   ]
+  ],
+  "353": [
+   [
+    52,
+    0
+   ],
+   [
+    52,
+    1
    ]
   ],
   "442": [
@@ -7752,11 +7762,11 @@
    ],
    [
     52,
-    2
+    3
    ],
    [
     52,
-    3
+    4
    ]
   ],
   "574": [
@@ -7770,31 +7780,21 @@
    ],
    [
     52,
-    2
+    3
    ],
    [
     52,
-    3
+    4
    ]
   ],
   "579": [
    [
     52,
-    0
-   ],
-   [
-    52,
-    1
-   ]
-  ],
-  "353": [
-   [
-    52,
-    2
-   ],
-   [
-    52,
     3
+   ],
+   [
+    52,
+    4
    ]
   ],
   "33": [
@@ -10618,8 +10618,8 @@
    ]
   ]
  },
- "generated": "2026-10-17 22:05 EDT",
- "generated_at": "2026-10-17T22:05:04-04:00",
+ "generated": "2026-10-17 22:10 EDT",
+ "generated_at": "2026-10-17T22:10:06-04:00",
  "today": "2026-10-17",
  "window": [
   "2026-10-16",
@@ -11335,7 +11335,7 @@
    "level": "ms",
    "an_id": "278145",
    "timer": "Athletic.net",
-   "status": "partial",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -11355,7 +11355,7 @@
      "start": "2026-10-17T14:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/278145/results/1110884",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       24,
       135,
@@ -12683,7 +12683,7 @@
    ],
    "an_id": "285954",
    "timer": "RunSignup",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -12705,7 +12705,7 @@
      "start": "2026-10-17T09:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285954/results/1138644",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       18,
       127,
@@ -12715,7 +12715,8 @@
       470,
       517,
       545
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/172286#resultSetId-741506"
     },
     {
      "id": "1138642",
@@ -12724,7 +12725,7 @@
      "start": "2026-10-17T09:40",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285954/results/1138642",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       18,
       127,
@@ -12734,7 +12735,8 @@
       470,
       517,
       545
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/172286#resultSetId-741721"
     },
     {
      "id": "1138645",
@@ -12743,7 +12745,7 @@
      "start": "2026-10-17T10:20",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285954/results/1138645",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       18,
       124,
@@ -12751,7 +12753,8 @@
       344,
       403,
       545
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/172286#resultSetId-741723"
     },
     {
      "id": "1138643",
@@ -12760,7 +12763,7 @@
      "start": "2026-10-17T10:50",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285954/results/1138643",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       18,
       124,
@@ -12769,7 +12772,8 @@
       403,
       470,
       545
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/172286#resultSetId-741722"
     }
    ],
    "team_src": "Athletic.net"
@@ -14062,7 +14066,7 @@
    ],
    "an_id": "286621",
    "timer": "RunSignup",
-   "status": "pending",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -14084,12 +14088,13 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286621/results/1141723",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       139,
       283,
       341
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/217085#resultSetId-741446"
     },
     {
      "id": "1141725",
@@ -14098,12 +14103,13 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286621/results/1141725",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       139,
       283,
       341
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/217085#resultSetId-741447"
     },
     {
      "id": "1141727",
@@ -14112,11 +14118,12 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286621/results/1141727",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       283,
       341
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/217085#resultSetId-741450"
     },
     {
      "id": "1141729",
@@ -14125,12 +14132,13 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286621/results/1141729",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       139,
       283,
       341
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/217085#resultSetId-741448"
     }
    ],
    "team_src": "Athletic.net"
@@ -14346,7 +14354,7 @@
    ],
    "an_id": "",
    "timer": "RunSignup",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -14355,7 +14363,18 @@
      "kind": "RunSignup"
     }
    ],
-   "races": []
+   "races": [
+    {
+     "id": "rs1228512",
+     "n": 0,
+     "name": "HS",
+     "start": "2026-10-17T10:00",
+     "source": "RunSignup",
+     "url": "https://runsignup.com/Race/Results/101676#resultSetId-740980",
+     "status": "results",
+     "lv": "hs"
+    }
+   ]
   },
   {
    "date": "2026-10-17",
@@ -15027,7 +15046,7 @@
    "level": "hs",
    "an_id": "285706",
    "timer": "RunSignup",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -15052,7 +15071,7 @@
      "start": "2026-10-17T09:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285706/results/1137544",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       11,
       63,
@@ -15066,7 +15085,8 @@
       558,
       559,
       639
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/101288#resultSetId-741782"
     },
     {
      "id": "1137542",
@@ -15075,7 +15095,7 @@
      "start": "2026-10-17T09:40",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285706/results/1137542",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       11,
       63,
@@ -15089,7 +15109,8 @@
       558,
       559,
       639
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/101288#resultSetId-742286"
     },
     {
      "id": "1137545",
@@ -15098,7 +15119,7 @@
      "start": "2026-10-17T10:20",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285706/results/1137545",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       11,
       63,
@@ -15110,7 +15131,18 @@
       558,
       559,
       639
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/101288#resultSetId-742284"
+    },
+    {
+     "id": "rs1220170",
+     "n": 0,
+     "name": "HS",
+     "start": "2026-10-17T11:00",
+     "source": "RunSignup",
+     "url": "https://runsignup.com/Race/Results/101288",
+     "status": "scheduled",
+     "lv": "hs"
     },
     {
      "id": "1137543",
@@ -15151,7 +15183,8 @@
      "start": null,
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285706/results/1151276",
-     "status": "scheduled"
+     "status": "results",
+     "rs_url": "https://runsignup.com/Race/Results/101288#resultSetId-741783"
     },
     {
      "id": "1151279",
@@ -15865,7 +15898,7 @@
     "ms": "285815"
    },
    "timer": "RunSignup",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -15895,7 +15928,7 @@
      "start": "2026-10-17T09:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/280113/results/1115512",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       21,
       158,
@@ -15905,7 +15938,8 @@
       622,
       651
      ],
-     "lv": "hs"
+     "lv": "hs",
+     "rs_url": "https://runsignup.com/Race/Results/154744#resultSetId-741435"
     },
     {
      "id": "1115510",
@@ -15914,7 +15948,7 @@
      "start": "2026-10-17T10:15",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/280113/results/1115510",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       21,
       158,
@@ -15925,7 +15959,8 @@
       622,
       651
      ],
-     "lv": "hs"
+     "lv": "hs",
+     "rs_url": "https://runsignup.com/Race/Results/154744#resultSetId-741449"
     },
     {
      "id": "1115513",
@@ -15934,7 +15969,7 @@
      "start": "2026-10-17T11:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/280113/results/1115513",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       21,
       158,
@@ -15944,7 +15979,8 @@
       622,
       651
      ],
-     "lv": "hs"
+     "lv": "hs",
+     "rs_url": "https://runsignup.com/Race/Results/154744#resultSetId-742590"
     },
     {
      "id": "1115511",
@@ -15953,7 +15989,7 @@
      "start": "2026-10-17T11:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/280113/results/1115511",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       21,
       158,
@@ -15963,7 +15999,8 @@
       622,
       651
      ],
-     "lv": "hs"
+     "lv": "hs",
+     "rs_url": "https://runsignup.com/Race/Results/154744#resultSetId-741453"
     },
     {
      "id": "1138093",
@@ -15972,7 +16009,7 @@
      "start": "2026-10-17T11:45",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285815/results/1138093",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       21,
       158,
@@ -15982,7 +16019,8 @@
       622,
       650
      ],
-     "lv": "ms"
+     "lv": "ms",
+     "rs_url": "https://runsignup.com/Race/Results/154744#resultSetId-741452"
     },
     {
      "id": "1138092",
@@ -15991,7 +16029,7 @@
      "start": "2026-10-17T12:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/285815/results/1138092",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       21,
       158,
@@ -16002,7 +16040,8 @@
       622,
       650
      ],
-     "lv": "ms"
+     "lv": "ms",
+     "rs_url": "https://runsignup.com/Race/Results/154744#resultSetId-741451"
     }
    ],
    "team_src": "Athletic.net"
@@ -16136,7 +16175,7 @@
     "ms": "285362"
    },
    "timer": "RunSignup",
-   "status": "listed",
+   "status": "partial",
    "note": "",
    "links": [
     {
@@ -16159,46 +16198,6 @@
     }
    ],
    "races": [
-    {
-     "id": "1113527",
-     "n": 1,
-     "name": "Boys Varsity \u00b7 5,000 Meters",
-     "start": null,
-     "source": "Athletic.net",
-     "url": "https://www.athletic.net/CrossCountry/meet/279558/results/1113527",
-     "status": "scheduled",
-     "tm": [
-      1,
-      81,
-      93,
-      137,
-      191,
-      442,
-      574,
-      579
-     ],
-     "lv": "hs"
-    },
-    {
-     "id": "1113529",
-     "n": 2,
-     "name": "Girls Varsity \u00b7 5,000 Meters",
-     "start": null,
-     "source": "Athletic.net",
-     "url": "https://www.athletic.net/CrossCountry/meet/279558/results/1113529",
-     "status": "scheduled",
-     "tm": [
-      1,
-      81,
-      93,
-      137,
-      191,
-      442,
-      574,
-      579
-     ],
-     "lv": "hs"
-    },
     {
      "id": "1136232",
      "n": 1,
@@ -16238,6 +16237,58 @@
       574
      ],
      "lv": "ms"
+    },
+    {
+     "id": "rs1228597",
+     "n": 0,
+     "name": "HS \u00b7 1K",
+     "start": "2026-10-17T11:40",
+     "source": "RunSignup",
+     "url": "https://runsignup.com/Race/Results/217032#resultSetId-742598",
+     "status": "results",
+     "lv": "hs"
+    },
+    {
+     "id": "1113527",
+     "n": 1,
+     "name": "Boys Varsity \u00b7 5,000 Meters",
+     "start": null,
+     "source": "Athletic.net",
+     "url": "https://www.athletic.net/CrossCountry/meet/279558/results/1113527",
+     "status": "results",
+     "tm": [
+      1,
+      81,
+      93,
+      137,
+      191,
+      442,
+      574,
+      579
+     ],
+     "lv": "hs",
+     "rs_url": "https://runsignup.com/Race/Results/217032#resultSetId-741455"
+    },
+    {
+     "id": "1113529",
+     "n": 2,
+     "name": "Girls Varsity \u00b7 5,000 Meters",
+     "start": null,
+     "source": "Athletic.net",
+     "url": "https://www.athletic.net/CrossCountry/meet/279558/results/1113529",
+     "status": "results",
+     "tm": [
+      1,
+      81,
+      93,
+      137,
+      191,
+      442,
+      574,
+      579
+     ],
+     "lv": "hs",
+     "rs_url": "https://runsignup.com/Race/Results/217032#resultSetId-741456"
     }
    ],
    "team_src": "Athletic.net"
@@ -16709,7 +16760,7 @@
    ],
    "an_id": "286600",
    "timer": "RunSignup",
-   "status": "listed",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -16731,7 +16782,7 @@
      "start": "2026-10-17T09:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286600/results/1141627",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       145,
       207,
@@ -16742,7 +16793,8 @@
       445,
       506,
       648
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/215977#resultSetId-734357"
     },
     {
      "id": "1141626",
@@ -16751,7 +16803,7 @@
      "start": "2026-10-17T09:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286600/results/1141626",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       145,
       207,
@@ -16762,7 +16814,8 @@
       445,
       506,
       648
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/215977#resultSetId-734356"
     },
     {
      "id": "1141629",
@@ -16771,7 +16824,7 @@
      "start": "2026-10-17T10:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286600/results/1141629",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       145,
       295,
@@ -16780,7 +16833,8 @@
       445,
       505,
       648
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/215977#resultSetId-734359"
     },
     {
      "id": "1141628",
@@ -16789,7 +16843,7 @@
      "start": "2026-10-17T10:30",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286600/results/1141628",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       145,
       206,
@@ -16800,7 +16854,8 @@
       445,
       505,
       648
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/215977#resultSetId-734358"
     }
    ],
    "team_src": "Athletic.net"
@@ -17445,7 +17500,8 @@
       367,
       381,
       577
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/154987#resultSetId-741694"
     },
     {
      "id": "1106130",
@@ -17464,7 +17520,8 @@
       367,
       381,
       577
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/154987#resultSetId-741695"
     },
     {
      "id": "1106129",
@@ -17481,7 +17538,8 @@
       367,
       381,
       577
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/154987#resultSetId-741696"
     },
     {
      "id": "1106131",
@@ -17498,7 +17556,8 @@
       367,
       381,
       577
-     ]
+     ],
+     "rs_url": "https://runsignup.com/Race/Results/154987#resultSetId-741697"
     }
    ],
    "team_src": "Athletic.net"
@@ -17839,7 +17898,7 @@
     "ms": "286972"
    },
    "timer": "RunSignup",
-   "status": "pending",
+   "status": "final",
    "note": "",
    "links": [
     {
@@ -17869,7 +17928,7 @@
      "start": "2026-10-17T14:00",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286459/results/1143340",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       102,
       144,
@@ -17880,7 +17939,8 @@
       598,
       611
      ],
-     "lv": "hs"
+     "lv": "hs",
+     "rs_url": "https://runsignup.com/Race/Results/154748#resultSetId-741462"
     },
     {
      "id": "1143342",
@@ -17889,7 +17949,7 @@
      "start": "2026-10-17T14:40",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286459/results/1143342",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       102,
       144,
@@ -17900,7 +17960,8 @@
       598,
       611
      ],
-     "lv": "hs"
+     "lv": "hs",
+     "rs_url": "https://runsignup.com/Race/Results/154748#resultSetId-741464"
     },
     {
      "id": "1143356",
@@ -17909,7 +17970,7 @@
      "start": "2026-10-17T15:20",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286972/results/1143356",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       102,
       144,
@@ -17920,7 +17981,8 @@
       514,
       598
      ],
-     "lv": "ms"
+     "lv": "ms",
+     "rs_url": "https://runsignup.com/Race/Results/154748#resultSetId-741465"
     },
     {
      "id": "1143357",
@@ -17929,7 +17991,7 @@
      "start": "2026-10-17T15:50",
      "source": "Athletic.net",
      "url": "https://www.athletic.net/CrossCountry/meet/286972/results/1143357",
-     "status": "scheduled",
+     "status": "results",
      "tm": [
       102,
       144,
@@ -17940,7 +18002,8 @@
       514,
       598
      ],
-     "lv": "ms"
+     "lv": "ms",
+     "rs_url": "https://runsignup.com/Race/Results/154748#resultSetId-741466"
     }
    ],
    "team_src": "Athletic.net"
