@@ -1,0 +1,35 @@
+{
+ "name": "Running Result Live",
+ "short_name": "RR Live",
+ "description": "Live Ohio cross country results \u2014 every meet, every split, every athlete.",
+ "id": "./",
+ "start_url": "./?source=pwa",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "background_color": "#0a0a0a",
+ "theme_color": "#0a0a0a",
+ "categories": [
+  "sports"
+ ],
+ "icons": [
+  {
+   "src": "pwa/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "pwa/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "pwa/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

@@ -397,6 +397,52 @@ function card(ci,ti){const c=CARDS[ci],t=TS()[ti],a=t.a.find(x=>x[2]==ci),r=R();
 function close_(){$('ov').classList.remove('on');$('sh').classList.remove('on')}
 $('ov').onclick=$('cx').onclick=close_;document.addEventListener('keydown',e=>e.key=='Escape'&&close_());
 $('q').oninput=render;$('tf').onchange=render;
-load().catch(()=>{$('out').innerHTML='<div class="xempty">The hub is unavailable right now. Try again shortly.</div>'});
+load().then(()=>window.__aq&&window.__aq()).catch(()=>{$('out').innerHTML='<div class="xempty">The hub is unavailable right now. Try again shortly.</div>'});
 setInterval(()=>load().catch(()=>{}),300000);
-</script></body></html>
+</script>
+<style>.xaq{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:8px 0;padding:8px 10px;border-left:3px solid #d00000;background:rgba(208,0,0,.1);font:500 13px Inter,sans-serif;color:#f5f5f5;border-radius:2px}.xaq b{font-weight:700}.xaq button{margin-left:auto;background:#171717;border:1px solid #484848;color:#f5f5f5;border-radius:4px;padding:6px 10px;font:600 12px Inter,sans-serif;cursor:pointer}.xaq button:hover{border-color:#f01414}tr.xaqh td{background:rgba(208,0,0,.16)!important}</style>
+<script>(function(){const P=new URLSearchParams(location.search),A=P.get('a');if(!A)return;let done=false;
+const nk=s=>String(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim();
+function bar(){if(!$('q')||$('q').value!==A){const b=document.getElementById('xaq');if(b)b.remove();return}
+let b=document.getElementById('xaq');if(!b){b=document.createElement('div');b.id='xaq';b.className='xaq';$('out').parentNode.insertBefore(b,$('out'))}
+b.innerHTML='<span>Showing <b>'+esc(A)+'</b></span><button type="button" id="xaqc">Show everyone</button>';$('xaqc').onclick=()=>{$('q').value='';render()};
+document.querySelectorAll('#out tr.xrow').forEach(tr=>{const n=tr.querySelector('.xnm b');if(n&&nk(n.textContent)==nk(A))tr.classList.add('xaqh')})}
+const R0=render;render=function(){R0.apply(this,arguments);try{bar()}catch(e){}};$('q').oninput=render;if($('tf'))$('tf').onchange=render;
+window.__aq=function(){if(done)return;done=true;try{const e=+P.get('e'),r=+P.get('r');
+if(typeof ei!=='undefined'&&D.events&&P.has('e')&&e>=0&&e<D.events.length){ei=e;si=0}
+if(typeof ri!=='undefined'&&D.races&&P.has('r')&&r>=0&&r<D.races.length){ri=r}
+$('q').value=A;tabs();render();const t=document.querySelector('#out tr.xaqh')||document.getElementById('xaq');if(t)t.scrollIntoView({block:'center'})}catch(x){}}})();</script>
+
+<style>
+.fav{flex:none;display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;min-width:32px;padding:0;margin:0 0 0 4px;background:transparent;border:1px solid transparent;border-radius:4px;cursor:pointer;color:#6e6e6a;vertical-align:middle}
+.fav svg{width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linejoin:round}.fav:hover{color:#f5f5f5;border-color:#484848}
+.fav.on{color:#d00000}.fav.on svg{fill:#d00000;stroke:#d00000}
+.xnm>div{display:flex;flex-wrap:wrap;align-items:center;column-gap:4px}.xnm>div i{flex-basis:100%;order:3}.xnm .fav{order:2;width:30px;height:30px;min-width:30px;margin-left:auto}
+tr.xfv td{background:rgba(208,0,0,.08)}tr.xfv td:first-child{box-shadow:inset 3px 0 #d00000}
+.ctm{position:relative}.ctm>.fav.tfv{position:absolute;right:86px;top:7px}.xtsc .fav{width:28px;height:28px;min-width:28px}
+.pbt{display:inline-block;margin-left:6px;font:700 9.5px/1 "JetBrains Mono",monospace;letter-spacing:.06em;padding:3px 5px;border-radius:2px;vertical-align:1px}.pbt.pr{background:#d00000;color:#fff}.pbt.sb{background:#3a3a37;color:#f5f5f5}
+.xtm{white-space:nowrap}.pbl{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin:6px 0 2px;font:500 11.5px Inter,sans-serif;color:#a5a5a0}.pbl .pbt{margin:0 4px 0 0}
+@media(max-width:600px){.xtm{width:auto!important}}</style>
+<script>(function(){const fnz=s=>String(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim();
+const fnzt=s=>fnz(s).replace(/\bsaint\b/g,'st').replace(/\bmt\b/g,'mount').replace(/\bft\b/g,'fort');
+const FK='rr_favs_v1';function FL(){try{return JSON.parse(localStorage.getItem(FK)||'{}')||{}}catch(e){return{}}}function FS(o){try{localStorage.setItem(FK,JSON.stringify(o))}catch(e){}}
+const fkT=n=>'t:'+fnzt(n),fkR=(n,s)=>'r:'+fnz(n)+'|'+fnzt(s);
+const STAR='<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 1.8l2.5 5.3 5.8.7-4.3 4 1.1 5.7L10 14.7l-5.1 2.8 1.1-5.7-4.3-4 5.8-.7z"/></svg>';
+function favBtn(k,n,s,t){const on=!!FL()[k];return'<button type="button" class="fav'+(on?' on':'')+'" data-fk="'+esc(k)+'" data-fn="'+esc(n)+'" data-fs="'+esc(s||'')+'" data-ft="'+t+'" aria-pressed="'+on+'" aria-label="'+(on?'Remove ':'Add ')+esc(n)+(on?' from':' to')+' favorites" title="Favorite">'+STAR+'</button>'}
+function favFlip(b){const o=FL(),k=b.dataset.fk;if(o[k])delete o[k];else o[k]={n:b.dataset.fn,s:b.dataset.fs,t:b.dataset.ft,at:Date.now()};FS(o);return!!o[k]}
+
+let TG=null,TGP=null;
+function loadTags(){if(TGP||!D||!D.events)return;TGP=fetch('tags.json',{cache:'no-cache'}).then(x=>x.ok?x.json():null).then(j=>{if(j&&j.t&&j.t.length){TG={};j.t.forEach(x=>TG[x[0]+'|'+x[1]+'|'+fnz(x[2])]=x[3]);decorate()}}).catch(()=>{})}
+function decorate(){const out=$('out');if(!out)return;const o=FL(),hub=!!(D&&D.races);
+if(TG&&D.events&&!document.getElementById('pbl')){const s=out.querySelector('.xsec:last-of-type')}
+out.querySelectorAll('tr.xrow').forEach(tr=>{const nb=tr.querySelector('.xnm b'),dv=tr.querySelector('.xnm>div');if(!nb||!dv)return;const nm=nb.textContent;
+let sc='';if(hub){const t=tr.dataset.t;sc=t!=null&&TS()[+t]?TS()[+t].n:''}else{const i=tr.querySelector('.xnm i');sc=i?i.textContent.split(' · ')[0]:''}
+const k=fkR(nm,sc);if(!dv.querySelector('.fav'))dv.insertAdjacentHTML('beforeend',favBtn(k,nm,sc,'r'));tr.classList.toggle('xfv',!!o[k]);
+if(TG&&!hub){const pl=(tr.querySelector('.xpl')||{}).textContent,tg=TG[ei+'|'+pl+'|'+fnz(nm)],c=tr.querySelector('.xtm');if(tg&&c&&!c.querySelector('.pbt'))c.insertAdjacentHTML('beforeend','<span class="pbt '+tg.toLowerCase()+'">'+tg+'</span>')}});
+if(TG&&!hub){const has=out.querySelector('.pbt');let l=document.getElementById('pbl');if(has&&!l){const sec=[...out.querySelectorAll('.xsec')].pop();if(sec)sec.insertAdjacentHTML('afterend','<div class="pbl" id="pbl"><span><span class="pbt pr">PR</span>Lifetime best at this distance</span><span><span class="pbt sb">SB</span>2026 season best at this distance</span><span>Compared with the runner\'s earlier races in the RunningResult database.</span></div>')}}
+if(hub)out.querySelectorAll('.ctm').forEach(c=>{const b=c.querySelector('.cth');if(!b||c.querySelector('.tfv'))return;const n=b.querySelector('b').textContent;c.insertAdjacentHTML('afterbegin',favBtn(fkT(n),n,'','t').replace('class="fav','class="fav tfv'))});
+else out.querySelectorAll('.xtsc tr').forEach(tr=>{const td=tr.children[1];if(td&&!td.querySelector('.fav')){const n=td.textContent;td.insertAdjacentHTML('beforeend',favBtn(fkT(n),n,'','t'))}})}
+const R1=render;render=function(){R1.apply(this,arguments);try{decorate();loadTags()}catch(e){}};$('q').oninput=render;if($('tf'))$('tf').onchange=render;
+document.addEventListener('click',e=>{const b=e.target.closest('.fav');if(!b)return;e.preventDefault();e.stopPropagation();const on=favFlip(b);document.querySelectorAll('.fav[data-fk="'+CSS.escape(b.dataset.fk)+'"]').forEach(x=>{x.classList.toggle('on',on);x.setAttribute('aria-pressed',on)});decorate()},true);
+})();</script>
+</body></html>
